@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20220901</CreaDate><CreaTime>18143400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files l\arcgis\desktop10.2\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20220901" Time="181434">ExtractByMask ETOPO1_Bed_g_geotiff.tif London_Ward_CityMerged_disov D:\tb_hlw\8.30地理空间英文报告1500\数据\statistical-gis-boundaries-london\dem.tif</Process></lineage></DataProperties></Esri></metadata>
